@@ -1,0 +1,17 @@
+C:\Users\COLINFE\source\repos\EDFJsonAnalyzer\EDFJsonAnalyzer\bin\Debug\net8.0\EDFJsonAnalyzer.exe
+C:\Users\COLINFE\source\repos\EDFJsonAnalyzer\EDFJsonAnalyzer\bin\Debug\net8.0\EDFJsonAnalyzer.deps.json
+C:\Users\COLINFE\source\repos\EDFJsonAnalyzer\EDFJsonAnalyzer\bin\Debug\net8.0\EDFJsonAnalyzer.runtimeconfig.json
+C:\Users\COLINFE\source\repos\EDFJsonAnalyzer\EDFJsonAnalyzer\bin\Debug\net8.0\EDFJsonAnalyzer.dll
+C:\Users\COLINFE\source\repos\EDFJsonAnalyzer\EDFJsonAnalyzer\bin\Debug\net8.0\EDFJsonAnalyzer.pdb
+C:\Users\COLINFE\source\repos\EDFJsonAnalyzer\EDFJsonAnalyzer\obj\Debug\net8.0\EDFJsonAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COLINFE\source\repos\EDFJsonAnalyzer\EDFJsonAnalyzer\obj\Debug\net8.0\EDFJsonAnalyzer.AssemblyInfoInputs.cache
+C:\Users\COLINFE\source\repos\EDFJsonAnalyzer\EDFJsonAnalyzer\obj\Debug\net8.0\EDFJsonAnalyzer.AssemblyInfo.cs
+C:\Users\COLINFE\source\repos\EDFJsonAnalyzer\EDFJsonAnalyzer\obj\Debug\net8.0\EDFJsonAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\COLINFE\source\repos\EDFJsonAnalyzer\EDFJsonAnalyzer\obj\Debug\net8.0\EDFJsonAnalyzer.dll
+C:\Users\COLINFE\source\repos\EDFJsonAnalyzer\EDFJsonAnalyzer\obj\Debug\net8.0\refint\EDFJsonAnalyzer.dll
+C:\Users\COLINFE\source\repos\EDFJsonAnalyzer\EDFJsonAnalyzer\obj\Debug\net8.0\EDFJsonAnalyzer.pdb
+C:\Users\COLINFE\source\repos\EDFJsonAnalyzer\EDFJsonAnalyzer\obj\Debug\net8.0\EDFJsonAnalyzer.genruntimeconfig.cache
+C:\Users\COLINFE\source\repos\EDFJsonAnalyzer\EDFJsonAnalyzer\obj\Debug\net8.0\ref\EDFJsonAnalyzer.dll
+C:\Users\COLINFE\source\repos\EDFJsonAnalyzer\EDFJsonAnalyzer\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\COLINFE\source\repos\EDFJsonAnalyzer\EDFJsonAnalyzer\obj\Debug\net8.0\EDFJsonAnalyzer.csproj.AssemblyReference.cache
+C:\Users\COLINFE\source\repos\EDFJsonAnalyzer\EDFJsonAnalyzer\obj\Debug\net8.0\EDFJsonA.6E5AEB81.Up2Date

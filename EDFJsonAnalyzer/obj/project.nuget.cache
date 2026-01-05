@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8LVt/u9LX3c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\COLINFE\\source\\repos\\EDFJsonAnalyzer\\EDFJsonAnalyzer\\EDFJsonAnalyzer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\COLINFE\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
